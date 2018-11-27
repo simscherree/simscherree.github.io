@@ -1,0 +1,52 @@
+html {
+  text-align: center;
+  font-family: 'Istok Web', sans-serif;
+  min-width: 260px;
+  color: #333;
+  
+  h1 {
+    font-size: 60px;
+    text-align: center;
+  font-family: 'Courgette', cursive;
+  padding: 10px 10px 10px 10px;
+}
+  
+}
+#main {
+  background-color: #eee;
+ padding: 15px;
+  border: 0px; solid;
+  border-radius: 5px;
+  
+}
+
+li {
+font-family: 'Istok Web', sans-serif;
+  font-size: 14px;
+  text-align: left;
+}
+
+#img-caption {
+  font-family: 'Istok Web', sans-serif;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  max-width: 100%;
+  
+}
+
+#img-div {
+  background: #78a0bb;
+  border: 10px solid white;
+}
+h3 {
+   font-size: 15px;
+   text-align: center;
+}
+
+
